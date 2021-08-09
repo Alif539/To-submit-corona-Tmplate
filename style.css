@@ -23,7 +23,7 @@ a{text-decoration: none;font-size: 16px;}
 
 /* sizing css starts here */
 /* .container{width:min(960px,96%);margin:0 auto; } */
-.container{width: 96%;min-width: 1500px;margin:0 auto; background-color: #fffbfb;}
+.container{width: 96%;margin:0 auto; background-color: #fffbfb;}
 .structure{width: 80%;margin:0 auto;}
 /* sizing css ends here *
 
